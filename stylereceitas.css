@@ -1,0 +1,20 @@
+#cabecario{
+    border: 4px solid coral;
+    background-color:chocolate;
+    text-align:center;
+    color:white;
+    top:-100px;
+    height: 30%;
+}
+
+#imagemcabecario{
+    text-align: left;
+}
+
+#ingredientes{
+    position: relative;
+}
+
+#preparo{
+    position:relative;
+}
